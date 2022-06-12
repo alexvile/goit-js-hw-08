@@ -7,8 +7,8 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 import { galleryItems } from './gallery-items';
 // Change code below this line
 import galleryItem from '../templates/gallery-item.hbs'
-console.log(galleryItems);
-console.log(galleryItem);
+// console.log(galleryItems);
+// console.log(galleryItem);
 
 
 
