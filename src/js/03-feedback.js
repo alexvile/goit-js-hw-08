@@ -35,6 +35,7 @@ function onFormSubmit(e) {
     console.log(JSON.parse(localStorage.getItem(STORAGE_KEY)));
 
     localStorage.removeItem(STORAGE_KEY);
+    alert("Feedback has been sent");
 };
 
  
