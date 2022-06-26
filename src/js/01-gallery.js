@@ -26,7 +26,7 @@ function createPicturesMarkup(pictures) {
 }
 
 
-let lightbox = new SimpleLightbox('.gallery a', { captionsData: 'alt', captionDelay: 250 });
+new SimpleLightbox('.gallery a', { captionsData: 'alt', captionDelay: 250 });
 
   
 
